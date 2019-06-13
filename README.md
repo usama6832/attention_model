@@ -14,4 +14,4 @@ SST1 and SST2 datasets are available at https://nlp.stanford.edu/sentiment/
 Pre-processing:
 
 pre-processing is done same as Yoon Kim in paper "Convolutional Neural Networks for Sentence Classification" available at
-https://github.com/yoonkim/CNN_sentence#convolutional-neural-networks-for-sentence-classification
+http://arxiv.org/abs/1408.5882
