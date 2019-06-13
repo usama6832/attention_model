@@ -1,3 +1,3 @@
 # attention_model
 
-Code of the model will be available soon.
+Code of the paper will be available soon.
