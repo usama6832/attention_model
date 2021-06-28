@@ -2,6 +2,8 @@
 
 Attention-based sentiment analysis using convolutional and recurrent neural network
 
+https://www.sciencedirect.com/science/article/abs/pii/S0167739X19334600
+
 Full Code of the paper will be available soon.
 
 
