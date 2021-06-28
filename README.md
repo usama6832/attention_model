@@ -1,6 +1,8 @@
 # attention_model
 
-Code of the paper will be available soon.
+Attention-based sentiment analysis using convolutional and recurrent neural network
+
+Full Code of the paper will be available soon.
 
 
 Dataset details:
