@@ -4,8 +4,6 @@ Attention-based sentiment analysis using convolutional and recurrent neural netw
 
 https://www.sciencedirect.com/science/article/abs/pii/S0167739X19334600
 
-Full Code of the paper will be available soon.
-
 
 Dataset details:
 
@@ -19,3 +17,6 @@ Pre-processing:
 
 pre-processing is done same as Yoon Kim in paper "Convolutional Neural Networks for Sentence Classification" available at
 http://arxiv.org/abs/1408.5882
+
+Attention approach used:
+https://github.com/usama6832/keras-attention-mechanism
